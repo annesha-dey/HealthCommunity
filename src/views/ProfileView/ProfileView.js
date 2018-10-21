@@ -48,7 +48,7 @@ class ProfileView extends Component {
   render() {
     return (
       <ScrollView style={styles.profileViewContainer}>
-        <Header headerText='Profile' />
+        <Header headerText='Profilee' />
         <View style={styles.profileInfoContainer}>
           <View style={styles.profileImageContainer}>
             <Image
